@@ -1,7 +1,6 @@
 # 👋 ¡Hola! Soy **Carlos**
 
-🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en la  
-**Universidad Católica de Santiago de Guayaquil (UCSG)**  
+🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en la **Universidad Católica de Santiago de Guayaquil (UCSG)**  
 📊 Apasionado por el **análisis de datos**, la **inteligencia artificial** y la **ciberseguridad**  
 
 ---

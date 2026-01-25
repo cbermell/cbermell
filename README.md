@@ -9,7 +9,7 @@
 - 🌱 Actualmente aprendiendo: **Python para análisis de datos**
 - 💡 Me interesa explorar la conexión entre **IA, ciberseguridad y computación física**
 - ⚙️ Disfruto trabajar con **datos reales** y descubrir **insights útiles**
-- 🤝 Participo activamente en comunidades tecnológicas y clubes de innovación
+- 🤝 Participo activamente en comunidades tecnológicas y tambien soy miembro de PHYCOM
 - 🎯 Objetivo actual: Desarrollar proyectos que unan **análisis de datos e impacto social**
 
 ---
